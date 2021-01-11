@@ -12,6 +12,7 @@ public class Flicker : MonoBehaviour
 
     private void Start()
     {
+        int i = 5;
         timeSinceLastFlicker = Time.time;
     }
 
